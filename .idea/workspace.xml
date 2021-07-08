@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77ff3107-8fc2-4adc-b840-ad15eed52712" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="228" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ustCVbYZXbe1cjBdp29BxJ8cNR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Num_1">
+    <configuration name="Num_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num_1" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num_726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num_726" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Num_1" />
+        <item itemvalue="Application.Num_726" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/pdf" value="PREVIEW" />
+        <entry key="$USER_HOME$/clojure-projects/zjxh_jaicai" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../qms/qms2" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/Hello/Test" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/cms_web/web" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/hello" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/meetings" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/myScala" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/myScala/hello" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/myscala" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/pdf" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/qms2" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/qms3" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/s9" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/shentong_portal" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/star-one" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/star-one-dms" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/star-one-dms/star-one-dms" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/star-one-oa" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/wechat-mini-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/xiaogan_web" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/zjxh1" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala-projects/zssjgj_xy2" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77ff3107-8fc2-4adc-b840-ad15eed52712" name="Default Changelist" comment="" />
+      <created>1625465996691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625465996691</updated>
+      <workItem from="1625466000275" duration="15161000" />
+      <workItem from="1625730991372" duration="196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="180" key="#Project_Structure" timestamp="1625466014493">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state x="569" y="180" key="#Project_Structure/0.23.1920.978@0.23.1920.978" timestamp="1625466014493" />
+    <state x="716" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1625468184496">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state x="716" y="223" key="#com.intellij.ide.util.MemberChooser/0.23.1920.978@0.23.1920.978" timestamp="1625468184496" />
+    <state width="1719" height="324" key="GridCell.Tab.0.bottom" timestamp="1625567873162">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state width="1719" height="324" key="GridCell.Tab.0.bottom/0.23.1920.978@0.23.1920.978" timestamp="1625567873162" />
+    <state width="1719" height="176" key="GridCell.Tab.0.bottom/0.23.1920.980@0.23.1920.980" timestamp="1625542704253" />
+    <state width="1719" height="324" key="GridCell.Tab.0.center" timestamp="1625567873162">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state width="1719" height="324" key="GridCell.Tab.0.center/0.23.1920.978@0.23.1920.978" timestamp="1625567873162" />
+    <state width="1719" height="176" key="GridCell.Tab.0.center/0.23.1920.980@0.23.1920.980" timestamp="1625542704252" />
+    <state width="1719" height="324" key="GridCell.Tab.0.left" timestamp="1625567873162">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state width="1719" height="324" key="GridCell.Tab.0.left/0.23.1920.978@0.23.1920.978" timestamp="1625567873162" />
+    <state width="1719" height="176" key="GridCell.Tab.0.left/0.23.1920.980@0.23.1920.980" timestamp="1625542704252" />
+    <state width="1719" height="324" key="GridCell.Tab.0.right" timestamp="1625567873162">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state width="1719" height="324" key="GridCell.Tab.0.right/0.23.1920.978@0.23.1920.978" timestamp="1625567873162" />
+    <state width="1719" height="176" key="GridCell.Tab.0.right/0.23.1920.980@0.23.1920.980" timestamp="1625542704253" />
+    <state x="272" y="123" key="SettingsEditor" timestamp="1625467049648">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state x="272" y="123" key="SettingsEditor/0.23.1920.978@0.23.1920.978" timestamp="1625467049648" />
+    <state x="496" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1625542001997">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state x="496" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1920.978@0.23.1920.978" timestamp="1625542001997" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Leetcode$Num_1.ic" NAME="Num_1 Coverage Results" MODIFIED="1625541771694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
